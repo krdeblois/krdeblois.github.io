@@ -1,0 +1,58 @@
+body {
+  background-color: #6A7478;
+  color: white;
+  font-family: "Playfair Display", serif;
+  }
+
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: "Raleway", sans-serif;
+    border-style: dashed;
+      border-width: 1px;
+      border-left-width: 10px;
+      border-right-width: 10px;
+      border-color: white;
+  }
+
+h3{
+  text-align: center;
+}
+
+h5{
+  text-decoration: underline;
+}
+
+.favorite {
+  color:lightpink;
+}
+
+img {
+  display: block;
+  width: 600px;
+  margin: 40px auto;
+}
+
+h4{
+  text-align: center;
+}
+
+a {
+  text-align: center;
+}
+
+  p {
+      text-align: center;
+      font-size: 20px;
+    }
+
+    #firstList {
+      background-color: lightpink;
+      color: black;
+      text-align: center;
+    }
+    #firstList li {
+      display: inline-block;
+      margin: 15px;
+    }
